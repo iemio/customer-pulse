@@ -21,20 +21,10 @@ cd customer-pulse
 2. Execute customer_behavior_sql_queries.sql for business insights
 3. Open customer_behavior_dashboard.pbix in Power BI
 
-## Repository Structure
-
-```
-├── Customer_Shopping_Behavior_Analysis.ipynb # Python: Data prep & EDA
-├── customer_behavior_sql_queries.sql # SQL: Business queries
-├── customer_behavior_dashboard.pbix # Power BI: Dashboard
-└── README.md
-
-```
-
 ## Skills Demonstrated
 
-✅ Data Cleaning & Transformation
-✅ Exploratory Data Analysis
-✅ SQL Analytics & Database Management
-✅ Data Visualization & Dashboard Design
-✅ Business Intelligence & Reporting
+-   Data Cleaning & Transformation
+-   Exploratory Data Analysis
+-   SQL Analytics & Database Management
+-   Data Visualization & Dashboard Design
+-   Business Intelligence & Reporting
